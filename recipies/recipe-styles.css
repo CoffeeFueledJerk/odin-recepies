@@ -1,0 +1,95 @@
+body {
+    background-image: url(../images/istockphoto-1395773756-612x612.jpg);
+
+
+}
+
+.title {
+    max-width: fit-content;
+    margin-inline: auto;
+    border-radius: 20px;
+    background-color: rgba(248, 230, 219, 0.87);
+    outline: 5px solid rgb(224, 107, 34);
+
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 70px;
+    font-size: 150px;
+    font-family: 'Brush Script MT', arial;
+}
+
+
+
+img {
+    height: 450px;
+    width: auto;
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+}
+
+
+
+.desc {
+    text-align: center;
+    font-family: 'Brush Script MT', arial;
+
+    font-size: 25px;
+    margin: auto;
+    margin-bottom: 2.5px;
+    background-color: rgba(248, 230, 219, 0.87);
+    outline: 5px solid rgb(224, 107, 34);
+    border-radius: 20px;
+}
+
+div {
+    padding: auto;
+    max-width: fit-content;
+    margin-inline: auto;
+    background-color: rgba(248, 230, 219, 0.87);
+    outline: 5px solid rgb(224, 107, 34);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Brush Script MT', arial;
+    font-size: 30px
+}
+
+p {
+    font-size: 30px
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.ingredients,
+.steps {
+    display: flex;
+    margin: 50px auto;
+    padding: 50px;
+    font-size: 25px;
+    font-family: 'Brush Script MT', arial;
+    font-size: 30px
+}
+
+a {
+    display: block;
+    max-width: fit-content;
+    margin-inline: auto;
+
+    text-align: center;
+    font-family: 'Brush Script MT', arial;
+
+    background-color: rgba(248, 230, 219, 0.87);
+    outline: 5px solid rgb(224, 107, 34);
+    padding: 30px;
+    border-radius: 20px;
+    font-size: 50px;
+    text-align: center;
+}
