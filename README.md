@@ -1,0 +1,1 @@
+This was done as an assignment for the Odin Project. The process was pretty straightforward and it was very easy to link the pages together, add images, make lists, headings and paragraphs. The hardest part for me, was uploading everything to git, but we finally got there in the end.

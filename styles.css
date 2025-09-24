@@ -1,0 +1,61 @@
+body {
+    background-image: url(./images/istockphoto-1395773756-612x612.jpg);
+
+
+}
+
+.title {
+    max-width: fit-content;
+    margin-inline: auto;
+    border-radius: 20px;
+    background-color: rgba(248, 230, 219, 0.87);
+    outline: 5px solid rgb(224, 107, 34);
+
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 70px;
+    font-size: 150px;
+    font-family: 'Brush Script MT', arial;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    border-radius: 20px;
+
+    padding: 100px;
+
+
+
+
+    background-color: rgba(248, 230, 219, 0.87);
+    outline: 5px solid rgb(224, 107, 34);
+}
+
+img {
+    height: 450px;
+    width: auto;
+    outline: 5px solid rgb(224, 107, 34);
+    border-radius: 20px;
+
+}
+
+span {
+    display: inline-block;
+    outline: 5px solid rgb(224, 107, 34);
+    border-radius: 20px;
+
+
+}
+
+figcaption {
+    text-align: center;
+    font-family: 'Brush Script MT', arial;
+    font-size: 80px;
+}
